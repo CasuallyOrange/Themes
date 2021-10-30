@@ -2,7 +2,8 @@
     "manifest": {
         "author": "CasuallyOrange#2025",
         "name": "BlueFruit",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/CasuallyOrange\/Themes\/main\/BlueFruit%20theme.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/780109330783141918\/902651432631685130\/808cb730c14ef61a3d8f9f3e624fff0fda9b7c70-s1-n2.png",
