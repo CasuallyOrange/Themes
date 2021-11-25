@@ -1,0 +1,35 @@
+{
+    "manifest": {
+        "author": "CasuallyOrange#2025",
+        "name": "LigArk",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {
+        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/830401532741812237\/885548081117007892\/Ubuntu-Bold.ttf",
+        "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/830401532741812237\/885572167721451571\/Ubuntu-Medium.ttf",
+        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/830401532741812237\/885572167910166539\/Ubuntu-Regular.ttf",
+        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/830401532741812237\/885542769253298256\/Product_Sans_Bold.ttf",
+        "whitney_medium": "https:\/\/cdn.discordapp.com\/attachments\/830401532741812237\/885566875986198528\/Cabin-Medium.ttf",
+        "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/830401532741812237\/885571543747428432\/Cabin-SemiBold.ttf"
+    },
+    "simple_colors": {
+        "accent": -486861,
+        "active_channel": -1712760064,
+        "background": -11906724,
+        "mention_highlight": 1191160866,
+        "statusbar": -16758979,
+        "background_secondary": -13288893
+    },
+    "colors": {
+        "primary_dark_300": -2453504,
+        "primary_dark_200": -1575681,
+        "uikit_settings_item_text_color_light": -8446756,
+        "uikit_btn_bg_color_selector_red": -24297,
+        "primary_dark_800": -13224394
+    },
+    "drawable_tints": {
+        "design_bottom_navigation_item_background": -16771018
+    },
+    "raws": {}
+}
