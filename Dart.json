@@ -3,7 +3,8 @@
         "author": "CasuallyOrange#2025",
         "name": "Dart",
         "version": "0.9.7",
-        "license": "FruityUI"
+        "license": "FruityUI",
+        "updater": "https:\/\/raw.githubusercontent.com\/CasuallyOrange\/Themes\/main\/Dart.json"
     },
     "background": {},
     "fonts": {
